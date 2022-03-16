@@ -1,0 +1,10 @@
+{
+  "default#credit": {
+    "Success": "CreditSuccessBusinessSynAsynHander",
+    "Fail": "CreditFailBusinessSynAsynHander"
+  },
+  "default#loan": {
+    "Success": "LoanSuccessBusinessSynAsynHander",
+    "Fail": "LoanFailBusinessSynAsynHander"
+  }
+}
